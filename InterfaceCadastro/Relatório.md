@@ -8,17 +8,17 @@ baixo.
 
 O método main roda pela interface ClientGUI.java que abre a janela:
 
-![plot](./InterfaceCadastro/relatorio_src/cadastro0.png)
+![plot](./relatorio_src/cadastro0.png)
 
 O botão de cadastro abre outra janela que recebe os atributos conforme a seleção do plano:
 
-![plot](./InterfaceCadastro/relatorio_src/cadastro1.png)
+![plot](./relatorio_src/cadastro1.png)
 
 O cadastro atualiza a tabela e ao selecionar um dos ítens, as informações são exibidas em um
 bloco:
 
-![plot](./InterfaceCadastro/relatorio_src/cadastro2.png)
+![plot](./relatorio_src/cadastro2.png)
 
 Avisos e confirmações lidam com erro de usuário:
 
-![plot](./InterfaceCadastro/relatorio_src/cadastro3.png)
+![plot](./relatorio_src/cadastro3.png)
